@@ -4,7 +4,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/theVishalCode/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://thevishalcode.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -43,4 +43,5 @@ If you want to contact with me you can reach me at [Instagram](https://www.insta
 ### License
 
 This project is **free to use** and does not contains any license.
+
 
